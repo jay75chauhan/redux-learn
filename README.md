@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+
+
+redux flow 
+<img width="1131" alt="react-redux-overview" src="https://user-images.githubusercontent.com/66429052/122571192-1a393680-d06a-11eb-9b1f-cce04440e518.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
