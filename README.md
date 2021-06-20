@@ -3,7 +3,8 @@
 
 
 redux flow 
-<img width="1131" alt="react-redux-overview" src="https://user-images.githubusercontent.com/66429052/122571192-1a393680-d06a-11eb-9b1f-cce04440e518.png">
+![ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26](https://user-images.githubusercontent.com/66429052/122668917-24794300-d1d8-11eb-9f21-2f28ad47bc8b.gif)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
